@@ -15,7 +15,7 @@ A passionate developer started its coding journey with a love for building innov
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![Java](<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2tEi3labYWSv9nHowb8JXue6pOLMtGsCwA&s" height = "40px", width = "40px")](https://www.java.com/en/)
+[![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2tEi3labYWSv9nHowb8JXue6pOLMtGsCwA&s height = "40px", width = "40px")](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
