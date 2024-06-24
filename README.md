@@ -20,9 +20,65 @@ A passionate developer started its coding journey with a love for building innov
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### GitHub Stats:
-![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diksha048&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha048&layout=compact&theme=radical)
+    <h3>Most Used Languages</h3>
+            <div class="languages">
+                <div class="language">
+                    <span style="background-color: #e52e2e; width: 80.62%;"></span>
+                    <p>HTML 80.62%</p>
+                </div>
+                <div class="language">
+                    <span style="background-color: #2e6ee5; width: 19.38%;"></span>
+                    <p>CSS 19.38%</p>
+                </div>
+            </div>
+            <h3> GitHub Stats</h3>
+            <div class="stats">
+                <div class="stat">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2282/2282433.png" alt="Stars icon">
+                    <p>Total Stars Earned:</p>
+                    <p>1</p>
+                </div>
+                <div class="stat">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2969/2969598.png" alt="Commits icon">
+                    <p>Total Commits (2024):</p>
+                    <p>194</p>
+                </div>
+                <div class="stat">
+                    <img src="https://cdn-icons-png.flaticon.com/512/4633/4633812.png" alt="PRs icon">
+                    <p>Total PRs:</p>
+                    <p>5</p>
+                </div>
+                <div class="stat">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2035/2035836.png" alt="Issues icon">
+                    <p>Total Issues:</p>
+                    <p>0</p>
+                </div>
+                <div class="stat">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2152/2152186.png" alt="Contributed icon">
+                    <p>Contributed to (last year):</p>
+                    <p>2</p>
+                </div>
+                <div class="stat">
+                    <div class="circle">
+                        <p>C</p>
+                    </div>
+                </div>
+            </div>
+            <div class="contributions">
+                <div class="contribution">
+                    <p>223</p>
+                    <p>Total Contributions</p>
+                    <p>Oct 18, 2023 - Present</p>
+                </div>
+                <div class="contribution">
+                    <div class="circle">
+                        <p>1</p>
+                <div class="contribution">
+                </div>
+            </div>
+        </div>
+    </div>
+
 
 ### Let's collaborate
 -I'm driven my curiosity and desire to learn and dedicated to continuously enhancing my skills.🔥
