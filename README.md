@@ -7,6 +7,7 @@ A passionate developer started its coding journey with a love for building innov
 
 - 🔭 I’m currently working on [icp-8.0-html-css-group-project](https://github.com/Diksha048/icp-8.0-html-css-group-project-2)
 - 👨‍💻 All of my projects are available at [Diksha048.github.io/my_profile/](https://github.com/Diksha048)
+- 👩‍💻 I’m currently learning MERN STACK
 - 💬 Ask me about *Python, java, JavaScript, HTML, CSS*
 - 📫 How to reach me *bhagwatdiksha0408@gmail.com*
 
