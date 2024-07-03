@@ -20,7 +20,7 @@ I'm a curious and driven developer with a love for building innovative solutions
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diksha-bhagwat-944252257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram][https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/diksha_bhagwat_?igsh=MXF0d3RwOXp0ejBrMQ==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diksha_bhagwat_?igsh=MXF0d3RwOXp0ejBrMQ==)
 
 ### Languages and Tools:
 
