@@ -5,7 +5,7 @@
 
 I'm a curious and driven developer with a love for building innovative solutions. 🚀
 
-**Currently working on:** [icp-8.0-html-css-group-project](https://github.com/Diksha048/icp-8.0-html-css-group-project-2)
+**Currently working on:** [Career Crossroads](https://career-crossroads.netlify.app/)
 
 **My projects:** [Diksha048.github.io/my_profile/](https://github.com/Diksha048)
 
