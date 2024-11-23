@@ -5,13 +5,9 @@
 
 I'm a curious and driven developer with a love for building innovative solutions. 🚀
 
-**Currently working on:** [Career Crossroads](https://career-crossroads.netlify.app/)
-
 **My projects:** [Diksha048.github.io/my_profile/](https://github.com/Diksha048)
 
-**Learning:** MERN STACK 📚
-
-**Ask me about:** Python, Java, JavaScript, HTML, CSS 💬
+**Ask me about:** Python, Java, JavaScript, HTML, CSS, SQL 💬
 
 **Get in touch:** bhagwatdiksha0408@gmail.com 📫
 
