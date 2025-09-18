@@ -26,8 +26,6 @@ I'm a curious and driven developer with a love for building innovative solutions
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha048&layout=compact&theme=radical)
 
 ### Let's collaborate
 
