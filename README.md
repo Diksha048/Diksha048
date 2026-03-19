@@ -1,29 +1,56 @@
+<h1 align="center">Hi 👋, I'm Diksha Bhagwat</h1>
+<h3 align="center">🚀 Passionate Developer | 💡 Innovator | 📚 Lifelong Learner</h3>
 
-# 👋 Hi, I'm Diksha Bhagwat 👩‍💻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Aspiring+Software+Developer;Open+to+Internships+%26+Jobs;Java+%7C+Web+Dev+%7C+ML+Enthusiast" />
+</p>
 
-**Passionate developer | Innovator | Lifelong learner**
+---
 
-I'm a curious and driven developer with a love for building innovative solutions. 🚀
+## 🌟 About Me
+- 🎓 B.Tech CSE (Computer Science & Design) Student  
+- 💻 Skilled in Java, Web Development & SQL  
+- 🤖 Exploring Machine Learning & React  
+- 🚀 Love building real-world projects  
+- 🎯 **Actively looking for Internship / Job opportunities**
 
-**My projects:** [Diksha048.github.io/my_profile/](https://github.com/Diksha048)
+---
 
-**Ask me about:** Java, JavaScript, HTML, CSS, SQL, Machine Learning 💬
+## 🌐 Portfolio
+🔗 [My Projects](https://github.com/Diksha048)
 
-**Get in touch:** dikshabhagwat4@gmail.com 📫
+---
 
+## 🛠️ Languages and Tools
+<p align="center">
 
-### Connect with me:
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,mysql,python" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diksha-bhagwat-944252257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+</p>
 
-### Languages and Tools:
+---
 
-[![Java](https://img.shields.io/badge/Java-blue?logo=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F181_Java_logo_logos-512.png&logoSize=50px)](https://www.java.com/en/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)](https://www.tensorflow.org/)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha048&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Diksha048&theme=radical" />
+</p>
 
+---
 
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/diksha-bhagwat-944252257">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dikshabhagwat4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <b>Diksha Bhagwat</b> | Let's build something amazing together!
+</p>
