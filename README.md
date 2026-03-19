@@ -11,7 +11,6 @@ I'm a curious and driven developer with a love for building innovative solutions
 
 **Get in touch:** dikshabhagwat4@gmail.com 📫
 
-![Profile views](https://komarev.com/ghpvc/?username=Diksha048)  <!-- Profile view badge -->
 
 ### Connect with me:
 
@@ -23,8 +22,8 @@ I'm a curious and driven developer with a love for building innovative solutions
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)](https://www.tensorflow.org/)
 
 
-### Let's collaborate
-
-Let's connect and discuss opportunities to collaborate and grow together! 🤝
