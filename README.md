@@ -11,6 +11,7 @@
 - 🎓 B.Tech CSE (Computer Science & Design) Student  
 - 💻 Skilled in Java, Web Development & SQL  
 - 🤖 Exploring Machine Learning & React  
+- 🎨 Interested in UI/UX Design (Figma)  
 - 🚀 Love building real-world projects  
 - 🎯 **Actively looking for Internship / Job opportunities**
 
@@ -24,7 +25,7 @@
 ## 🛠️ Languages and Tools
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,mysql,python" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,mysql,python,figma" />
 
 </p>
 
