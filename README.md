@@ -22,7 +22,7 @@
 
 ## 🌐 Portfolio
 <p align="center">
-  <a href="https://github.com/Diksha048">
+  <a href="https://github.com/Diksha048?tab=repositories">
     <img src="https://img.shields.io/badge/🔗_View_My_Projects-000000?style=for-the-badge" />
   </a>
 </p>
